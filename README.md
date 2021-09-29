@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Varun Talari
 - 👀 I’m trying to make a Discord bot
-- 🌱 I’m currently learning Python 
 - 📫 How to reach me ec20b1041@iiitdm.ac.in
 - 🧁 Discord: Kratos#3947
 
