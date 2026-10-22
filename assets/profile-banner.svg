@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-labelledby="title desc">
+<title id="title">Varun Talari — AI Engineer</title>
+<desc id="desc">Build, evaluate, ship. A navy banner with a subtle connected-node motif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#17223c"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#38bdf8" stop-opacity=".14"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="200" rx="14" fill="url(#bg)"/>
+<ellipse cx="813" cy="100" rx="190" ry="130" fill="url(#glow)"/>
+<g fill="none" stroke="#334866" stroke-width="1.2">
+  <path d="M667 55 804 99 932 44M672 154 804 99 937 156M804 99 885 102"/>
+  <circle cx="804" cy="99" r="35"/><circle cx="804" cy="99" r="56" stroke-opacity=".45"/>
+</g>
+<g fill="#7dd3fc">
+  <circle cx="667" cy="55" r="4"/><circle cx="672" cy="154" r="4"/><circle cx="804" cy="99" r="7"/>
+</g>
+<g fill="#c4b5fd"><circle cx="932" cy="44" r="4"/><circle cx="937" cy="156" r="4"/><circle cx="885" cy="102" r="4"/></g>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+  <text x="44" y="47" fill="#7dd3fc" font-size="13" font-weight="600" letter-spacing="3">AI ENGINEER</text>
+  <text x="42" y="108" fill="#f1f5f9" font-size="48" font-weight="650" letter-spacing="-1.5">Varun Talari</text>
+  <text x="44" y="151" fill="#a9b8cc" font-size="18" letter-spacing=".6">Build. Evaluate. Ship.</text>
+</g>
+<rect x="44" y="183" width="912" height="2" rx="1" fill="url(#accent)" opacity=".8"/>
+</svg>
