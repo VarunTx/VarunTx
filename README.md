@@ -37,7 +37,7 @@ An open-source developer control plane bringing durable workflows, service monit
 
 <p align="center">
   <a href="https://github.com/VarunTx?tab=repositories">
-    <img width="420" src="https://github-stats-extended.vercel.app/api?username=VarunTx&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8" alt="Varun's public GitHub contribution statistics" />
+    <img width="360" src="https://github-stats-extended.vercel.app/api?username=VarunTx&show_icons=true&hide_rank=true&hide_title=true&hide=issues,contribs&hide_border=true&bg_color=0b1220&text_color=cbd5e1&icon_color=38bdf8&border_radius=12" alt="Varun's public GitHub contribution statistics" />
   </a>
 </p>
 
