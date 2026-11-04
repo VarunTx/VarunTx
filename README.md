@@ -6,7 +6,7 @@
 [![Followers](https://img.shields.io/github/followers/VarunTx?label=Followers&style=flat&color=0284c7)](https://github.com/VarunTx?tab=followers)
 [![Stars](https://img.shields.io/github/stars/VarunTx?affiliations=OWNER&label=Stars&style=flat&color=0284c7)](https://github.com/VarunTx?tab=repositories)
 
-[Selected work](#selected-work) · [Case study](https://github.com/VarunTx/harness-ops/blob/main/docs/CASE_STUDY.md) · [Get in touch](mailto:ec20b1041@iiitdm.ac.in)
+[Selected work](#selected-work) · [Case study](https://github.com/VarunTx/harness-ops/blob/main/docs/CASE_STUDY.md) · [Get in touch](mailto:varun.talari1@gmail.com)
 
 </div>
 
