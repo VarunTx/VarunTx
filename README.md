@@ -31,7 +31,7 @@ An open-source developer control plane bringing durable workflows, service monit
 
 **Interested in applied AI and early engineering roles** where I can turn an ambiguous problem into a working feature, own the surrounding software, and keep improving it after launch.
 
-[Email](mailto:ec20b1041@iiitdm.ac.in) · [More projects](https://github.com/VarunTx?tab=repositories)
+[Email](mailto:varun.talari1@gmail.com) · [More projects](https://github.com/VarunTx?tab=repositories)
 
 ### GitHub activity
 
