@@ -21,8 +21,8 @@ I take projects from an open-ended brief through implementation, testing, and de
 **[HarnessOps](https://github.com/VarunTx/harness-ops) — Agent improvement through feedback and evals**  
 Built a support agent with progressively loaded skills, Git-versioned memory, and human-reviewed instruction changes. Each evaluation records the harness commit it tested. On small scenario sets, reported runs improved **3/14 → 14/14 in development** and **2/10 → 10/10 on a separate holdout**. [Results & engineering decisions →](https://github.com/VarunTx/harness-ops/blob/main/docs/CASE_STUDY.md)
 
-**[Sunflower Grove](https://github.com/VarunTx/aws_hackathon) — Multi-agent workflows with verifiable answers**  
-A six-agent front desk built for a hackathon, with specialist routing, tool calls, policy citations, and human handoffs. Combines decisions made in code with generated responses, a parent chat, and an operator dashboard.
+**[pytest-agent-behavior](https://github.com/VarunTx/pytest-agent-behavior) — Deterministic tests for agent behavior**  
+A pytest plugin that checks recorded agent traces for regressions in tool selection, approval ordering, call counts, and repeated identical calls. Runs locally without LLM calls, API keys, or a hosted service.
 
 **[Orchestra AI](https://github.com/VarunTx/orchestra-ai) — The systems around a running product**  
 An open-source developer control plane bringing durable workflows, service monitoring, incident handling, and execution inspection into one dashboard, with self-hosted deployment and recovery tooling.
