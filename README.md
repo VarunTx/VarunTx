@@ -14,7 +14,7 @@
 
 I build agentic applications with a focus on **context engineering, evaluation, and product delivery**. My work connects agent reasoning and tool use with the APIs, interfaces, and infrastructure needed to put a complete application in someone’s hands.
 
-I take projects from an open-ended brief through implementation, testing, and deployment tooling. I use failure traces and feedback to decide what to improve, and choose the tools the problem calls for.
+I take projects from an open ended brief through implementation, testing, and deployment tooling. I use failure traces and feedback to decide what to improve, and choose the tools the problem calls for.
 
 ### Selected work
 
