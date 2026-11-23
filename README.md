@@ -2,6 +2,10 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Varun Talari — AI Engineer. Build. Evaluate. Ship." />
 
+[![Profile views](https://komarev.com/ghpvc/?username=VarunTx&label=Profile%20views&color=0284c7&style=flat)](https://github.com/VarunTx)
+[![Followers](https://img.shields.io/github/followers/VarunTx?label=Followers&style=flat&color=0284c7)](https://github.com/VarunTx?tab=followers)
+[![Stars](https://img.shields.io/github/stars/VarunTx?affiliations=OWNER&label=Stars&style=flat&color=0284c7)](https://github.com/VarunTx?tab=repositories)
+
 **Applied AI Engineer** · San Francisco Bay Area · Open to full-time Applied AI / AI Engineer roles
 
 [Portfolio](https://varuntx.us) · [Selected work](#selected-work) · [Writing](https://varuntx.us/blog/) · [LinkedIn](https://www.linkedin.com/in/varun-talari-8b301620b) · [Email](mailto:hi@varuntx.us)
@@ -36,3 +40,13 @@ Projects, health checks, incidents and durable workflows in one dashboard, with 
 ---
 
 **Looking for full-time Applied AI and AI Engineer roles** where I can turn an ambiguous problem into a working feature, own the software around it, and keep improving it after launch. The fastest way to reach me is [hi@varuntx.us](mailto:hi@varuntx.us).
+
+### GitHub activity
+
+<p align="center">
+  <a href="https://github.com/VarunTx?tab=repositories">
+    <img width="360" src="https://github-stats-extended.vercel.app/api?username=VarunTx&show_icons=true&hide_rank=true&hide_title=true&hide=issues,contribs&hide_border=true&bg_color=0b1220&text_color=cbd5e1&icon_color=38bdf8&border_radius=12" alt="Varun's public GitHub contribution statistics" />
+  </a>
+</p>
+
+<!-- Profile views count counter loads, not verified unique visitors. Third-party badges and stats may be cached or temporarily unavailable. -->
